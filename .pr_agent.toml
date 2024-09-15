@@ -4,3 +4,6 @@ enable_review_labels_effort = true
 
 [pr_code_suggestions]
 summarize=true
+
+[best_practices]
+enable_global_best_practices = true
