@@ -7,3 +7,4 @@ focus_only_on_problems=true
 
 [best_practices]
 enable_global_best_practices = true
+organization_name="Qodo"
